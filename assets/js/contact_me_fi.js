@@ -18,7 +18,7 @@ $(function() {
             }
 
             $.ajax({
-                url: "//forms.brace.io/anu.koivunen@kolumbus.fi", 
+                url: "//formspree.io/anu.koivunen@kolumbus.fi", 
                 type: "POST",
                 data: {
                     name: name,
